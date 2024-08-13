@@ -11,4 +11,11 @@
     <link href="<?php echo base_url(); ?>asset/css/charisma-app.css" rel="stylesheet">
     <link href="<?php echo base_url(); ?>asset/vendor/responsive-tables/responsive-tables.css" rel='stylesheet'>
 
+    <style>
+      body {
+        background: rgb(140,21,80);
+        background: linear-gradient(99deg, rgba(140,21,80,1) 9%, rgba(14,0,111,1) 100%);
+      }
+    </style>
+
 </head>

@@ -3,10 +3,10 @@
 <div class="box">
 	<div class="box-inner">
 		<div class="box-header well">
-			<h2>Selamat Datang di E-Pilketos</h2>
+			<h2>Selamat Datang di E-Pilketos SMPN 17 MALANG</h2>
 		</div>
 		<div class="box-content">
-			<p>Silahkan Pilih Calon Ketua OSIS dibawah ini </p>
+			<h1><strong>Silahkan Pilih Salah Satu Ketua Osis Di Bawah!</strong></h1>
 			<hr/>
 			<br/><br/>
 			<div class="row">
@@ -17,7 +17,7 @@
 						<div class="box">
 							<div class="box-inner">
 								<div class="box-header well">
-									<h2 class="text-center"> NO <?php echo $loaddata['no']; ?>  ||  <?php echo $loaddata['nama']; ?> </h2>
+									<h2 class="text-center"> Pilihan Nomor : <?php echo $loaddata['no']; ?>     Nama : <?php echo $loaddata['nama']; ?> </h2>
 								</div>
 								<div class="box-content">
 									<img width="100%" height="400" src="<?php echo base_url(); ?>asset/img/<?php echo $loaddata['photo']; ?>"/></br/><br/>
@@ -46,7 +46,7 @@
 										);
 										echo form_input($form_attribute);
 									?>
-									<button class="btn btn-danger" style="width: 100%;">Pilih NO <?php echo $loaddata['no']; ?></button>
+									<button class="btn btn-primary" style="width: 100%;">Pilih Nomor <?php echo $loaddata['no']; ?></button>
 									<?php 
 										echo form_close();
 									?>

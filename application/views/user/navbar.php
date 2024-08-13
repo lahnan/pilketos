@@ -1,7 +1,7 @@
 <nav class="navbar navbar-inverse">
   <div class="container"> 
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">E-Pilketos</a>
+      <a class="navbar-brand" href="#">SMPN 17 MALANG</a>
     </div>
     <ul class="nav navbar-nav">
       <li class="active"><a href="#">Beranda</a></li> 

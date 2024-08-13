@@ -1,15 +1,15 @@
-<body style="background-image:url('<?php echo base_url(); ?>asset/img/background.jpg'); background-size: 100%; width: 100%; background-repeat: no-repeat">
+<body>
 <div class="ch-container">
     <div class="row">
         <div class="col-md-12 center login-header">
-            <h2>Selamat Datang di E-Pilketos</h2>
+            <h1>Selamat Datang di E-Pilketos</h1>
         </div>
         <!--/span-->
     </div><!--/row-->
 
     <div class="row">
         <div class="col-md-5 center login-box">
-            <div class="alert alert-info">
+            <div class="alert alert-success">
                 Gunakan NISN anda Sebagai Username dan Password
             </div>
 			<?php if($this->session->flashdata('failed')) { ?>
@@ -34,7 +34,7 @@
             <form class="form-horizontal" action="index.html" method="post">
                 <fieldset>
                     <div class="input-group input-group-lg">
-                        <span class="input-group-addon"><i class="glyphicon glyphicon-user red"></i></span>
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
 						<?php
 							$form_attribute 	= array(
 								'type'			=> 'text',
@@ -48,7 +48,7 @@
                     <div class="clearfix"></div><br>
 
                     <div class="input-group input-group-lg">
-                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock red"></i></span>
+                        <span class="input-group-addon"><i class="glyphicon glyphicon-lock"></i></span>
                         <?php
 							$form_attribute 	= array(
 								'type'			=> 'password',
@@ -65,7 +65,7 @@
                     <div class="clearfix"></div>
 
                     <p class="center col-md-5">
-                        <button type="submit" class="btn btn-primary btn-lg"><span class="glyphicon glyphicon-log-in"></span> Login</button>
+                        <button type="submit" class="btn btn-success btn-lg"><span class="glyphicon glyphicon-log-in"></span> Login</button>
                     </p>
                 </fieldset>
             </form>

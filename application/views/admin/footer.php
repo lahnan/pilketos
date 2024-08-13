@@ -17,7 +17,8 @@
       Template By <a href="https://adminlte.io">AdminLTE.io</a>
     </div>
     <!-- Default to the left -->
-    <strong>Copyright &copy; <?php echo DATE("Y");?> Muhammad Rompegading </strong>
+    <strong>Copyright &copy; <?php echo DATE("Y");?> Muhammad Rompegading .</strong>
+    <strong>Modifed By Lahnan Adi Satria </strong>
   </footer>
 </div>
 <?php } ?>
