@@ -1,9 +1,3 @@
-# DAFTAR PERUBAHAN
-<ol>
-  <li>Perubahan Template dari Charisma ke AdminLTE</b></li>
-
-</ol>
-
 # TENTANG E-PILKETOS
 E-Pilketos adalah aplikasi E-Voting untuk Pemilihan Ketua Osis. Aplikasi ini dikembangkan untuk membantu Sekolah-Sekolah dalam melakukan Pemilihan Ketua OSIS dengan Mudah dan Cepat. 
 Aplikasi ini adalah aplikasi yang gratis untuk digunakan, namun jika anda ingin memberikan Kontribusi atau membantu Kami untuk pengembangan Aplikasi ini lebih lanjut anda dapat memberika Donasi kepada Kami Seikhlasnya.
