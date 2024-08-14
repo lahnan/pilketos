@@ -2,6 +2,9 @@
 E-Pilketos adalah aplikasi E-Voting untuk Pemilihan Ketua Osis. Aplikasi ini dikembangkan untuk membantu Sekolah-Sekolah dalam melakukan Pemilihan Ketua OSIS dengan Mudah dan Cepat. 
 Aplikasi ini adalah aplikasi yang gratis untuk digunakan, namun jika anda ingin memberikan Kontribusi atau membantu Kami untuk pengembangan Aplikasi ini lebih lanjut anda dapat memberika Donasi kepada Kami Seikhlasnya.
 
+# Catatan
+Direkomendasikan menggunakan PHP v5 agar tidak muncul bugs
+
 # Fitur
 <ol>
   <li><b>Reset Data</b> (Fitur ini diperlukan pada saat Sekolah ingin membersihkan data pada database dan ingin melakukan Pemilihan pada tahnu berikutnya</li>
